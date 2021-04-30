@@ -35356,14 +35356,14 @@ return P.N($async$lc,r)},
 l8:function(){var s=0,r=P.O(t.z)
 var $async$l8=P.K(function(a,b){if(a===1)return P.L(b,r)
 while(true)switch(s){case 0:s=5
-return P.w(T.aX("https://linktr.ee/_Help20"),$async$l8)
+return P.w(T.aX("https://verifiedcovidleads.com/"),$async$l8)
 case 5:s=b?2:4
 break
 case 2:s=6
-return P.w(T.aY("https://linktr.ee/_Help20"),$async$l8)
+return P.w(T.aY("https://verifiedcovidleads.com/"),$async$l8)
 case 6:s=3
 break
-case 4:throw H.a("Could not launch https://linktr.ee/_Help20")
+case 4:throw H.a("Could not launch https://verifiedcovidleads.com/")
 case 3:return P.M(null,r)}})
 return P.N($async$l8,r)},
 la:function(){var s=0,r=P.O(t.z)
