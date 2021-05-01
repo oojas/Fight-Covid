@@ -2,7 +2,7 @@
 
 <p align="center">
 <img src="https://www.linkpicture.com/q/logo_137.png" width=50% height=50%/>
-  <h2 align="center">COVID RESOURCES WEBAPP</h2>
+  <h2 align="center">COVID RESOURCE WEBAPP</h2>
 <br>
 
 
@@ -22,6 +22,7 @@
 <img src="https://www.linkpicture.com/q/PV3.png" width=50% height=50%/> 
 
 [Website Link](https://indiafightbacks.netlify.app/)
+
 [Source Code](https://github.com/oojas/Covcode)
 
 ## Problem Statement:
