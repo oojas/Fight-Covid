@@ -38,6 +38,7 @@ The resources that my website will have includes :
 5. COVID stats tracker
 6. Only Good News as we have so much negativity during these rough times
 7. Vaccination registeration guide.
+8. How to be safe at home
 
 Since resources are available on twitter or on various platforms but are not clubbed and are scattered and there is a void of a platform where all the resources are clubbed, my website will be a platform of clubbing all the info about available verified resources in every state and country.
 
